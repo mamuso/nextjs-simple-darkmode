@@ -8,3 +8,5 @@ Play with your OS appearence prefeerences in the operating system settings.
 - In Windows 10: Settings → Personalization → Colors → Light/Dark
 
 You can read more about the implementation details [here](https://mamuso.dev/post/2021-03-27-dark-mode-nextjs-cssvars).
+
+![darklight](https://user-images.githubusercontent.com/3992/112713564-ff07c200-8e92-11eb-9797-ff454badc785.gif)
