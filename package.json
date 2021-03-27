@@ -1,0 +1,30 @@
+{
+  "name": "nextjs-simple-darkmode",
+  "version": "1.0.0",
+  "description": "A simple way to implement light/dark mode in Next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamuso/nextjs-simple-darkmode.git"
+  },
+  "keywords": [
+    "nextjs",
+    "darkmode"
+  ],
+  "author": "mamuso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mamuso/nextjs-simple-darkmode/issues"
+  },
+  "homepage": "https://github.com/mamuso/nextjs-simple-darkmode#readme",
+  "dependencies": {
+    "next": "^10.0.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}

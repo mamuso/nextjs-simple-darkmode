@@ -1,0 +1,11 @@
+.container {
+  padding-top: 6.4rem;
+}
+
+.list::marker {
+  color: var(--text-link);
+}
+
+.link {
+  color: var(--text-link);
+}
