@@ -12,7 +12,6 @@ const hexToRgb = (hex) => {
     : null;
 };
 
-console.log(hexToRgb("#F5F5F5"));
 const darkTheme = Object.entries(defaultTheme.colors.dark)
   .map(([name, value]) => `--${name}: ${value}; --${name}-rgb: ${Object.values(hexToRgb(value)).join(", ")};`)
   .join(";");
