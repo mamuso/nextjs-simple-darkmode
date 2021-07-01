@@ -15,11 +15,7 @@ export default function Instructions() {
         <a className={styles.link} href="https://github.com/mamuso/nextjs-simple-darkmode">
           the repository
         </a>{" "}
-        if you are curious about the code or{" "}
-        <a className={styles.link} href="https://mamuso.dev/post/2021-03-27-dark-mode-nextjs-cssvars">
-          this post
-        </a>{" "}
-        if you want to read more about the implementation details.
+        if you are curious about the code.
       </p>
     </div>
   );
